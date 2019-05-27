@@ -4,5 +4,4 @@ def my_each (a)
     puts i
     i +=1
   end
-  yield a
 end 
